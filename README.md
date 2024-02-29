@@ -3,7 +3,7 @@
 
 Este proyecto utiliza Vite como herramienta de desarrollo.
 
-#### Configuración
+#### Configuración:
 
 A continuación, te detallamos los pasos necesarios para iniciar el proyecto en tu entorno local.
 
