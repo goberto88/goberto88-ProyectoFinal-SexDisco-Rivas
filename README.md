@@ -1,7 +1,7 @@
 
 ## Bienvenido/a al proyecto SEXDISC 
 
-Este proyecto utiliza Vite como su herramienta de desarrollo.
+Este proyecto utiliza Vite como herramienta de desarrollo.
 
 #### Configuración
 
