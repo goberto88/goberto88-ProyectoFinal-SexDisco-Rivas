@@ -15,7 +15,7 @@ Paso 2. El proyecto requiere ciertas credenciales y configuraciones que deben se
 
 Paso 3. Después de copiar la información requerida, puedes iniciar el servidor localmente con el siguiente comando: 
 
-###### npm run dev. 
+###### npm run dev
 
 
 #### Página Principal:
