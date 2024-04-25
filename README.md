@@ -1,9 +1,9 @@
 
 ## Bienvenido/a al proyecto SEXDISC 
 
-Este proyecto utiliza Vite como su herramienta de desarrollo.
+Este proyecto utiliza Vite como herramienta de desarrollo.
 
-#### Configuración
+#### Configuración:
 
 A continuación, te detallamos los pasos necesarios para iniciar el proyecto en tu entorno local.
 
@@ -11,11 +11,11 @@ Paso 1. Asegúrate de tener Node.js y npm instalados en tu máquina. Luego, ejec
 
 ###### npm install
 
-Paso 2. El proyecto requiere ciertas credenciales y configuraciones que deben ser proporcionadas a través de un archivo .env. Asegúrate de crear este archivo en la raíz del proyecto y proporcionar los valores necesarios según  sean otorgados.
+Paso 2. El proyecto requiere ciertas credenciales y configuraciones que deben ser proporcionadas a través de un archivo .env. Asegúrate de crear este archivo en la raíz del proyecto y solicitar al desarrollador las variables de entorno necesarias.
 
 Paso 3. Después de copiar la información requerida, puedes iniciar el servidor localmente con el siguiente comando: 
 
-###### npm run dev. 
+###### npm run dev
 
 
 #### Página Principal:
