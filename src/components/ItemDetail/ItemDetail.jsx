@@ -5,7 +5,7 @@ const ItemDetail = ({ product }) => {
   const esCamiseta = product.categoria === "camisetas";
 
   return (
-    <div className="max-w-3xl mx-auto rounded-lg bg-white p-6 shadow-md p-5 rounded-lg mt-10 mb-10 ">
+    <div className="max-w-3xl mx-auto rounded-lg bg-white p-6 shadow-md  mt-10 mb-10 ">
       <div className="grid grid-cols-1 justify-center md:grid-cols-2 gap-5 items-center">
         <div className="flex justify-center md:justify-start">
           <img
